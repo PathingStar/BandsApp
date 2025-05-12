@@ -9,7 +9,7 @@ public class BandService
         _bands = new List<Band>
         {
             new Band { Id = 1, Name = "Disturbed", Description = "Disturbed är ett amerikanskt metalband som grundades 1994 under namnet Brawl av Dan Donegan, Steve \"Fuzz\" Kmak, Mike Wengren och Erich Awalt i Chicago, Illinois. David Draiman övertog som sångare 1996 och bandet bytte namn till Disturbed. Sedan bandet grundades har de sålt över 10 miljoner album och även hunnit spela med stora namn som Pendulum Garden och Burning Machine. " },
-            new Band { Id = 2, Name = "Band 2", Description = "Description 2" },
+            new Band { Id = 2, Name = "Guns n Roses", Description = "Guns N' Roses[a] is an American hard rock band formed in Los Angeles, California in 1985 as a merger of local bands L.A. Guns and Hollywood Rose." },
             new Band { Id = 3, Name = "Band 3", Description = "Description 3" },
             new Band { Id = 3, Name = "Band 3", Description = "Description 3" }
         };

@@ -6,4 +6,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\Img\20250218_disturbedpress_1.webp" />
+    <None Include="wwwroot\Img\61bf384bbb1f2f4a8021d112_opengraph copy.jpg" />
+    <None Include="wwwroot\Img\guns-n-roses-at-uic-pavillion-chicago-illinois-august-21-1987.webp" />
+  </ItemGroup>
+
 </Project>

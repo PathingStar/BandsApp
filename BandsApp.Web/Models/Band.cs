@@ -7,4 +7,8 @@ public class Band
     public string Description { get; set; }
 
     public string ImageUrl { get; set; }
+
+    public string VideoUrl { get; set; }
+
+    public string[] Album {  get; set; }
 }
